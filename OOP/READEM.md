@@ -1,4 +1,4 @@
-# -------------- Object Oriented Programming -------------
+# ------------ Object Oriented Programming ----------
 
 
 <br>
@@ -31,7 +31,7 @@ class is like a <b> blueprint </b> of these entities.
 #include < string >
 <br>
 using namespace std;
-<br>
+<br><br>
 -> class Teacher {
 <br>
 // Properties/ attributes
@@ -54,7 +54,7 @@ void ChangeDept( string newDept ){
 }
 <br>
 };
-<br>
+<br><br>
 int main( ){
     <br>
     Teacher t1;
@@ -77,7 +77,7 @@ int main( ){
     <br>
     return 0;
 <br>
-}
+}<br><br>
 // O/P = Siddharth
 <br>
 -> C++
@@ -87,9 +87,9 @@ int main( ){
 -> 350000
 
 # ------------- Access Modifiers ----------------
-<b> private <b> ----> Data & methods accessible inside class.
+<b>private<b>   ----> Data & methods accessible inside class.
 <br>
-<b> public <b> ----> Data & methods accessible to everyone.
+<b>public<b>   ----> Data & methods accessible to everyone.
 <br>
-<b> protected <b> ----> Data & methods accessible inside class & to its derived class.
+<b>protected<b>  ----> Data & methods accessible inside class & to its derived class.
 <br>
