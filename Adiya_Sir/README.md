@@ -26,5 +26,9 @@
     <td> Encapsulation </td>
     <td> ATM machine ( data hedden inside )
     </tr>
+    <tr>
+    <td> Inheritance </td>
+    <td> Child inheriting features from parents </td>
+    </tr>
 
 </table>
