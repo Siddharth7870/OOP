@@ -11,7 +11,12 @@
 <h2> Concept & Real life Example </h2>
 <table>
     <tr>
-    <th>concept </th>
+    <th> Concept </th>
     <th>Real-life Example</th>
     </tr>
+    <tr> 
+    <td>class</td>
+    <td> Blueprint of a car model </td>
+    </tr>
+
 </table>
