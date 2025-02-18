@@ -18,5 +18,9 @@
     <td>class</td>
     <td> Blueprint of a car model </td>
     </tr>
+    <tr>
+    <td> object</td>
+    <td> A specific car like " Honda city" </td>
+    </tr>
 
 </table>
