@@ -30,5 +30,9 @@
     <td> Inheritance </td>
     <td> Child inheriting features from parents </td>
     </tr>
+    <tr>
+    <td> Polymorphism </td>
+    <td> A person acting as a student, employee,or player </td>
+    </tr>
 
 </table>
