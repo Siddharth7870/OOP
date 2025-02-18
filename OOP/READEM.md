@@ -18,7 +18,7 @@ class is like a <b> blueprint </b> of these entities.
 <br>
 -> Object <--- Teacher --- > Change Department[ ] -> method
 <br>
--> -------- N,D,S,S ---> Properties
+-> -------- name, dept , subject , salary ---> Properties
 
 <br>
 -> entity -> Teacher
