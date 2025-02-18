@@ -15,12 +15,16 @@
     <th>Real-life Example</th>
     </tr>
     <tr> 
-    <td>class</td>
+    <td> class </td>
     <td> Blueprint of a car model </td>
     </tr>
     <tr>
     <td> object</td>
     <td> A specific car like " Honda city" </td>
+    </tr>
+    <tr>
+    <td> Encapsulation </td>
+    <td> ATM machine ( data hedden inside )
     </tr>
 
 </table>
