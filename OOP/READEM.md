@@ -14,3 +14,8 @@ class is like a <b> blueprint </b> of these entities.
 </li>
 
 </ul>
+
+<br>
+-> Object <--- Teacher --- > Change Department[ ] -> method
+<br>
+-> -------- N,D,S,S ---> Properties
