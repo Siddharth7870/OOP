@@ -87,9 +87,13 @@ int main( ){
 -> 350000
 
 # ------------- Access Modifiers ----------------
-<b>private<b>     ----> Data & methods accessible inside class.
+<b>private</b>     ----> Data & methods accessible inside class.
 <br>
-<b>public<b>     ----> Data & methods accessible to everyone.
+<b>public</b>     ----> Data & methods accessible to everyone.
 <br>
-<b>protected<b>  ----> Data & methods accessible inside class & to its derived class.
+<b>protected</b>  ----> Data & methods accessible inside class & to its derived class.
+<br>
+
+# ---------------- Encapsulation ------------------
+-> Encapsulation is <b> Wrapping up </b> of data & member functions in a single unit called class.
 <br>
