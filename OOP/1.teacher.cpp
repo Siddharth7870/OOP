@@ -15,10 +15,12 @@ class Teachar {
         dept = newDept;
     }
 
+    // setter
     void setSalary( double s ){
         salary = s;
     }
 
+    // getter
     double getSalary( ){
         return salary;
     }
