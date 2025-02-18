@@ -34,5 +34,10 @@
     <td> Polymorphism </td>
     <td> A person acting as a student, employee,or player </td>
     </tr>
+    <tr>
+    <td> Abstraction </td>
+    <td> A remote control ( hides complex implementation ) </td>
+    </tr>
+
 
 </table>
