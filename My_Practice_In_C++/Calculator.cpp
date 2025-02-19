@@ -36,7 +36,7 @@ int main()
         case '*' : cout << " Multiplication is -> " << num1 << " * " << num2 << " = " << num1 * num2 ;
         break;
 
-        // for  Division case '/'
+        // for  Division case '/' but a condition
         case '/' : if( num1 >= 1 && num2 >= 1 )
         {
         cout << " Divided is -> " << num1 << " / " << num2 << " = " << num1 / num2;
