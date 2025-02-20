@@ -6,7 +6,31 @@ using namespace std;
 int main()
 {   
     // for Operands like ( + , - , * , / )
-    char Operands;
-    int no1 = 4, no2 = 6;
     
+ int a,c;
+char b ;
+cout << "enter operation " << endl;
+cin >> a>>b>>c;
+switch(b)
+{case '+':
+cout << a+c << endl;
+break ;
+case '-':
+cout << a-c << endl;
+break ;
+case '*':
+cout << a*c << endl;
+break ;
+case '/':
+cout << a/c << endl;
+break ;
+default:
+cout << "invalid" << endl;
 }
+
+
+
+    return 0;
+}
+
+    

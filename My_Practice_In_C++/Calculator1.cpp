@@ -45,11 +45,12 @@ int main()
         break;
 
         //  for modular operator '%' with a condition
-        // case '%' : if( num1 >= 1 && num2 >= 1 )
-        // {                                                            why not here is error
-        //     cout <<" Modular id -> " << num1 << " % " << num2 << " = " << num1 % num2 ;
-
-        // }
+        case '%' : if( num1 >= 1 && num2 >= 1 )
+        {                                                            
+            cout <<" Modular id -> " << static_cast<int>(num1) << " % " << static_cast<int>(num2) << " = " << static_cast<int>(num1) % static_cast<int>(num2) ;
+        }
+        else{cout << " Please check your number ";}
+        break;
 
         default :
         cout << "Please check your operand " << endl;
