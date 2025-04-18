@@ -24,6 +24,6 @@ int main()
 {
     A::print();
     B::print();
-
+    std::cout<<"Ramanand ";
     return 0;
 }

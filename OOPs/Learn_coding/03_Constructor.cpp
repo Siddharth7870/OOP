@@ -6,7 +6,7 @@ Ans. Constructor is a " Special type " of " function " which is " Automatically 
 # Note :- The main purpose of constructor is used to " Intialize the Object". 
 
 ---> Syntax :- 
-class class
+class A
 {
     A()
     {
@@ -17,4 +17,4 @@ class class
 ---> Types ->  i ) default
 .             ii ) parameterized
 .            iii ) copy
-*/
+*/ 
